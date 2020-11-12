@@ -23,6 +23,7 @@ def barajar(lista_de_naipes):
     return lista_de_naipes
     
 
+    
 
 
         
